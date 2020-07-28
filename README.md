@@ -1,8 +1,9 @@
-### Alamgir Hossain
+### Hi, I'm Alamgir! 👋👋
 
 ---
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Thanatos23&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 #### About Me
 
@@ -12,11 +13,6 @@
 - 🤔 I’m looking for help with **Android Development Architecture**
 - 💬 Ask me about Anything.
 - 📫 How to reach me: al.hossain94@gmail.com
-- 😄 Pronouns: He / Him / His
-<!--
-- ⚡ Fun fact: ...
--->
-
 ---
 
 ⭐️ From [Alamgir Hossain](https://github.com/Thanatos23)
