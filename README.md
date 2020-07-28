@@ -1,9 +1,18 @@
-### Hi, I'm Alamgir! 👋👋
+<h3 align="center">Hi, I'm Alamgir! 👋👋</h3>
 
 ---
+<div>
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/Thanatos23/count.svg" />
+  </p>
+</div>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Thanatos23&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<div>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=Thanatos23&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</div>
+
 
 #### About Me
 
