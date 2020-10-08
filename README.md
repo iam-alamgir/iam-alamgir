@@ -4,12 +4,12 @@
 <div>
   <p align="center"> 
     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Thanatos23/count.svg" />
+    <img src="https://profile-counter.glitch.me/iam-alamgir/count.svg" />
   </p>
 </div>
 
 <div>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=Thanatos23&show_icons=true">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=iam-alamgir&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
 
@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on **Android Development Architecture**, **Microservice Architecture**
 - 🤔 I’m looking for help with **Android Development Architecture**
 - 💬 Ask me about Anything.
-- 📫 How to reach me: al.hossain94@gmail.com
+- 📫 How to reach me: iam.alamgir.h@gmail.com
 ---
 
-⭐️ From [Alamgir Hossain](https://github.com/Thanatos23)
+⭐️ From [Alamgir Hossain](https://github.com/iam-alamgir)
