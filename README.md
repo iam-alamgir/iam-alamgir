@@ -107,5 +107,5 @@
   <img src="https://github.com/iam-alamgir/iam-alamgir/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41" />
   <img alt="Forks" src="https://img.shields.io/github/forks/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41" />
-  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=iam-alamgir.iam-alamgir" />
+  <img alt="Visitors" src="https://pageview.vercel.app/?github_user=iam-alamgir" />
 </p>
