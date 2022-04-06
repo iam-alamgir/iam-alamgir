@@ -68,9 +68,9 @@
     src="https://activity-graph.herokuapp.com/graph?username=iam-alamgir&custom_title=Alamgir%27s%20activity%20graph&theme=gotham"
     alt="stats-graph" />
 </p>
-<p align="justify">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iam-alamgir&show_icons=true&theme=gotham&hide=prs"
-    width="480" alt="stats-count" />
+    width="450" alt="stats-count" />
   <!--    
    &nbsp;
    &nbsp;
@@ -79,7 +79,7 @@
   &nbsp;
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-alamgir&layout=compact&theme=gotham"
-    alt="stats-top" />
+    width="330" alt="stats-top" />
 </p>
 
 <h3>Where to find me</h3>
@@ -99,7 +99,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Wednesday, April 6, 1:49 PM GMT+6
+  Last refresh: Wednesday, April 6, 1:52 PM GMT+6
   <br />
 </p>
 
