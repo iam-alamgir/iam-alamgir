@@ -99,7 +99,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Wednesday, June 29, 12:25 PM GMT+6
+  Last refresh: Wednesday, June 29, 6:41 PM GMT+6
   <br />
 </p>
 
