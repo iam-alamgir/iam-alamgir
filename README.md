@@ -92,14 +92,11 @@
     <img alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/505122683684388874" target="_blank">
-    <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/505122683684388874" />
-  </a>
 </p>
 
 ------------
 <p align="center">
-  Last refresh: Wednesday, August 3, 12:25 PM GMT+6
+  Last refresh: Wednesday, August 3, 3:51 PM GMT+6
   <br />
 </p>
 
