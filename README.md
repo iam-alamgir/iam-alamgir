@@ -5,7 +5,7 @@
 
 <p>Welcome to my page!
   </br>
-  I'm Alamgir, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197509.png" width="13" />
+  I'm Alamgir, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197509.png" width="13" />
   <b>Dhaka, Bangladesh</b>.
 </p>
 
@@ -96,7 +96,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Wednesday, August 3, 3:56 PM GMT+6
+  Last refresh: Thursday, August 4, 12:38 PM GMT+6
   <br />
 </p>
 
