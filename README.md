@@ -96,7 +96,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Thursday, August 4, 12:38 PM GMT+6
+  Last refresh: Monday, August 8, 7:52 AM GMT+6
   <br />
 </p>
 
