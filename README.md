@@ -13,7 +13,7 @@
 <p>
   <img alt="Android"
     src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23F42C2F.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Kotlin"
     src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Gradle"
@@ -109,7 +109,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Saturday, September 17, 2:24 AM GMT+6
+  Last refresh: Saturday, September 17, 2:33 AM GMT+6
   <br />
 </p>
 
