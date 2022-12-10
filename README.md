@@ -78,7 +78,7 @@
 <h3>My Github stats</h3>
 <p align="center">
   <img
-    src="https://activity-graph.herokuapp.com/graph?username=iam-alamgir&custom_title=Alamgir%27s%20activity%20graph&theme=gotham"
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=iam-alamgir&custom_title=Alamgir%27s%20activity%20graph&theme=gotham"
     alt="stats-graph" />
 </p>
 <p align="left">
@@ -109,7 +109,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Monday, December 5, 7:22 AM GMT+6
+  Last refresh: Saturday, December 10, 1:57 PM GMT+6
   <br />
 </p>
 
