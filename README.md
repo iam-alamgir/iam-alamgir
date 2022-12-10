@@ -128,7 +128,7 @@
   <img alt="stats-graph"
        src="https://github-readme-activity-graph.cyclic.app/graph?username=iam-alamgir&custom_title=Alamgir%27s%20activity%20graph&theme=gotham"/>
 </p>
-<p align="center">
+<p align="left">
   <img alt="stats-count"
        src="https://github-readme-stats.vercel.app/api?username=iam-alamgir&show_icons=true&theme=gotham&hide=prs"
        width="450" />
@@ -159,7 +159,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Saturday, December 10, 3:03 PM GMT+6
+  Last refresh: Saturday, December 10, 3:30 PM GMT+6
   <br />
 </p>
 
