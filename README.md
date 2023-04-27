@@ -156,12 +156,12 @@
 
 ------------
 <p align="center">
-  Last refresh: Thursday, April 27, 7:20 AM GMT+6
+  Last refresh: Thursday, April 27, 7:36 AM GMT+6
   <br />
 </p>
 
 <p align="center">
-  <img alt="build" src="https://github.com/iam-alamgir/iam-alamgir/workflows/README%20Build/badge.svg" />
+  <img alt="build" src="https://github.com/iam-alamgir/iam-alamgir/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41" />
   <img alt="Forks" src="https://img.shields.io/github/forks/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41" />
   <img alt="Visitors" src="https://pageview.vercel.app/?github_user=iam-alamgir" />
