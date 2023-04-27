@@ -16,6 +16,8 @@
        src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Kotlin"
        src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Java"
+       src="https://img.shields.io/badge/java-%23F42C2F.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Gradle"
        src="https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" />
   <img alt="JWT"
@@ -154,7 +156,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Monday, April 24, 7:18 AM GMT+6
+  Last refresh: Thursday, April 27, 7:20 AM GMT+6
   <br />
 </p>
 
