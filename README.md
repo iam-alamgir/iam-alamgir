@@ -156,7 +156,7 @@
 
 ------------
 <p align="center">
-  Last refresh: Monday, July 1, 7:21 AM GMT+6
+  Last refresh: Monday, July 8, 7:16 AM GMT+6
   <br />
 </p>
 
