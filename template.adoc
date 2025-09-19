@@ -1,0 +1,73 @@
+= Hi, I'm link:https://www.alamgir.pro[Alamgir] image:https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif[waving-hand, width=40px]
+:icons: font
+:source-highlighter: rouge
+:imagesdir: ./images
+
+[.text-center]
+--
+link:https://github.com/iam-alamgir[image:https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white[GitHub]]
+link:https://www.linkedin.com/in/iam-alamgir[image:https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white[LinkedIn]]
+--
+
+Welcome to my GitHub profile! +
+I'm Alamgir, Software Engineer from image:https://cdn-icons-png.flaticon.com/512/197/197509.png[flag, width=13] *Dhaka, Bangladesh*.
+
+== Things I code with
+
+=== Backend
+image:https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white[Kotlin]
+image:https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white[Java]
+image:https://img.shields.io/badge/spring_boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white[Spring Boot]
+image:https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white[JUnit 5]
+image:https://img.shields.io/badge/cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white[Cucumber]
+image:https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black[Swagger]
+image:https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white[Gradle]
+image:https://img.shields.io/badge/apache_maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white[Apache Maven]
+
+=== Databases
+image:https://img.shields.io/badge/oracle_rdbms-C74634.svg?style=for-the-badge&logo=oracle&logoColor=white[Oracle RDBMS]
+image:https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white[PostgreSQL]
+
+=== Message Brokers
+image:https://img.shields.io/badge/apache_kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white[Apache Kafka]
+image:https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white[RabbitMQ]
+
+=== Observability
+image:https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white[Prometheus]
+image:https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white[Grafana]
+image:https://img.shields.io/badge/opentelemetry-000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white[OpenTelemetry]
+image:https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white[Elasticsearch]
+
+=== Cloud
+image:https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white[Podman]
+image:https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white[Docker]
+
+=== Tools
+image:https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white[Git]
+image:https://img.shields.io/badge/conventional_commits-FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white[Conventional Commits]
+image:https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white[Postman]
+image:https://img.shields.io/badge/sonar-FD3456.svg?style=for-the-badge&logo=sonar&logoColor=white[Sonar]
+
+'''
+
+=== My GitHub tats
+
+[.text-center]
+image:https://github-readme-stats-seven-taupe-46.vercel.app/api?username=iam-alamgir&show_icons=true&show=prs_merged_percentage&theme=tokyonight[stats-count, width=48%] &#160;&#160;&#160;&#160; image:https://github-readme-stats-seven-taupe-46.vercel.app/api/top-langs/?username=iam-alamgir&langs_count=8&layout=compact&theme=tokyonight[stats-top, width=35.55%]
+[.text-center]
+image::https://github-readme-activity-graph-delta-jade.vercel.app/graph?username=iam-alamgir&theme=tokyo-night[stats-graph, width=86%]
+
+'''
+
+[.text-center]
+--
+Last refresh: {date}
+--
+
+[.text-center]
+--
+image:https://github.com/iam-alamgir/iam-alamgir/workflows/README%20build/badge.svg[build]
+image:https://img.shields.io/github/stars/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41[Stars]
+image:https://img.shields.io/github/forks/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41[Forks]
+image:https://komarev.com/ghpvc/?username=iam-alamgir&color=yellow[Visitors]
+--
