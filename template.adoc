@@ -4,6 +4,7 @@
 :imagesdir: ./images
 
 --
+link:mailto:hello@alamgir.pro[image:https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=letter&logoColor=white[Email]]
 link:https://github.com/iam-alamgir[image:https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white[GitHub]]
 link:https://www.linkedin.com/in/iam-alamgir[image:https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white[LinkedIn]]
 --
@@ -51,21 +52,18 @@ image:https://img.shields.io/badge/sonar-FD3456.svg?style=for-the-badge&logo=son
 
 === My GitHub tats
 
-[.text-center]
-image:https://github-readme-stats-seven-taupe-46.vercel.app/api?username=iam-alamgir&show_icons=true&show=prs_merged_percentage&theme=tokyonight[stats-count, width=48%] &#160;&#160;&#160;&#160; image:https://github-readme-stats-seven-taupe-46.vercel.app/api/top-langs/?username=iam-alamgir&langs_count=8&layout=compact&theme=tokyonight[stats-top, width=35.55%]
-[.text-center]
+image:https://github-readme-stats-seven-taupe-46.vercel.app/api?username=iam-alamgir&show_icons=true&show=prs_merged_percentage&theme=tokyonight[stats-count, width=48%] &#160;&#160;&#160; image:https://github-readme-stats-seven-taupe-46.vercel.app/api/top-langs/?username=iam-alamgir&langs_count=8&layout=compact&theme=tokyonight[stats-top, width=35.55%]
+
 image::https://github-readme-activity-graph-delta-jade.vercel.app/graph?username=iam-alamgir&theme=tokyo-night[stats-graph, width=86%]
 
 '''
 
-[.text-center]
 --
 Last refresh: {date}
 --
 
-[.text-center]
 --
-image:https://github.com/iam-alamgir/iam-alamgir/workflows/README%20build/badge.svg[build]
+image:https://img.shields.io/github/actions/workflow/status/iam-alamgir/iam-alamgir/main.yaml[GitHub Actions Workflow Status]
 image:https://img.shields.io/github/stars/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41[Stars]
 image:https://img.shields.io/github/forks/iam-alamgir/iam-alamgir?style=flat&labelColor=343b41[Forks]
 image:https://komarev.com/ghpvc/?username=iam-alamgir&color=yellow[Visitors]
