@@ -1,4 +1,4 @@
-= Hi, I'm link:https://www.alamgir.pro[Alamgir] image:https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif[waving-hand, width=40px]
+= Hi, I'm link:https://alamgir.pro[Alamgir] image:https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif[waving-hand, width=40px]
 :icons: font
 :source-highlighter: rouge
 :imagesdir: ./images
