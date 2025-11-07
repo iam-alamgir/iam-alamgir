@@ -1,4 +1,4 @@
-= Hi, I'm link:https://alamgir.pro[Alamgir] image:https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif[waving-hand, width=40px]
+= Hi, I'm link:https://www.alamgir.pro[Alamgir] image:https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif[waving-hand, width=40px]
 :icons: font
 :source-highlighter: rouge
 :imagesdir: ./images
@@ -59,7 +59,7 @@ image::https://github-readme-activity-graph-delta-jade.vercel.app/graph?username
 '''
 
 --
-Last refresh: Friday, September 19 at 08:52 PM +06
+Last refresh: Friday, November 07 at 12:50 PM +06
 --
 
 --
